@@ -3,10 +3,7 @@
 import sys
 
 def rock_paper_scissors(n):
-  """
-  need to save choices and output
-  make a function to recall at new n
-  """
+# runtime complexity = O(n)
   # choices and output arrays
   choices=['rock', 'paper', 'scissors'] 
   output=[]
